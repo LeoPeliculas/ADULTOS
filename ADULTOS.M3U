@@ -2,3 +2,6 @@
 
 #EXTINF:-1 TVG-LOGO="https://i.ibb.co/KVstbHS/ptv-01-2020.png", ADULT IPTV
 http://adultiptv.net/lists/all.m3u
+
+#EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", MANGOVIDEO
+https://raw.githubusercontent.com/LeoPeliculas/ADULTOS/main/MANGOVIDEO.M3U
