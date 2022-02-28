@@ -3,5 +3,8 @@
 #EXTINF:-1 TVG-LOGO="https://i.ibb.co/KVstbHS/ptv-01-2020.png", ADULT IPTV
 http://adultiptv.net/lists/all.m3u
 
+EXTINF:-1 TVG-LOGO="https://ideasqueayudan.com/wp-content/uploads/2017/07/cien-erptico-2.jpg" GROUP-TITLE="", PELICULAS EROTICAS
+https://raw.githubusercontent.com/LeoPeliculas/ADULTOS/main/EROTICAS.M3U
+
 #EXTINF:-1 TVG-LOGO="" GROUP-TITLE="", MANGOVIDEO
 https://raw.githubusercontent.com/LeoPeliculas/ADULTOS/main/MANGOVIDEO.M3U
