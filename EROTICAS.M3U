@@ -1,24 +1,24 @@
 #EXTM3U
 
-EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/belle_de_jour-540831392-large.jpg" GROUP-TITLE="", BELLE DE JOUR
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/belle_de_jour-540831392-large.jpg" GROUP-TITLE="", BELLE DE JOUR
 https://archive.org/download/belle-de-dia/Belle%20De%20Dia.mp4
 
-EXTINF:-1 TVG-LOGO="https://media-cache.cinematerial.com/p/500x/iradjc7o/crash-dvd-movie-cover.jpg" GROUP-TITLE="", CRASH
+#EXTINF:-1 TVG-LOGO="https://media-cache.cinematerial.com/p/500x/iradjc7o/crash-dvd-movie-cover.jpg" GROUP-TITLE="", CRASH
 https://archive.org/download/crash.-1996.-hq.-720-p.cast.ok/Crash.1996.Hq.720P.cast.ok.mp4
 
-EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/delta_of_venus-547241582-large.jpg" GROUP-TITLE="", DELTA DE VENUS
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/delta_of_venus-547241582-large.jpg" GROUP-TITLE="", DELTA DE VENUS
 https://archive.org/download/50247179-delta-de-venus-en-espanol/50247179_DELTA%20DE%20VENUS%20en%20espa%C3%B1ol.mp4
 
-EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/diario_de_una_ninfomana-893065762-large.jpg" GROUP-TITLE="", DIARIO DE UNA NINFOMANA
+#EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/diario_de_una_ninfomana-893065762-large.jpg" GROUP-TITLE="", DIARIO DE UNA NINFOMANA
 https://archive.org/download/diario-de-una-ninfomana/Diario%20De%20Una%20Ninfomana.mp4
 
-EXTINF:-1 TVG-LOGO="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/poster/db_posters_32201.jpg" GROUP-TITLE="", EL CASTIGO DE ANNE
+#EXTINF:-1 TVG-LOGO="https://s3-eu-west-1.amazonaws.com/abandomedia/indie/poster/db_posters_32201.jpg" GROUP-TITLE="", EL CASTIGO DE ANNE
 https://archive.org/download/el-castigo-de-anne-the-image-1975/El%20castigo%20de%20Anne%20%28The%20Image%201975%29.mp4
 
-EXTINF:-1 TVG-LOGO="https://film.artmozi.hu/wp-content/uploads/2021/02/BURGUNDY.png" GROUP-TITLE="", EL DUKE DE BURGUNDY
+#EXTINF:-1 TVG-LOGO="https://film.artmozi.hu/wp-content/uploads/2021/02/BURGUNDY.png" GROUP-TITLE="", EL DUKE DE BURGUNDY
 https://archive.org/download/e-l-d-uke/eL%20dUKE.mp4
 
-EXTINF:-1 TVG-LOGO="http://2.bp.blogspot.com/-ZJQ0LZ19WaI/Xre_HaCvOAI/AAAAAAAArds/ZfFZk7FTVkEeMujhw8m-4dIqYmTUQN6nACK4BGAYYCw/s1600/El%2Bimperio%2Bde%2Blos%2Bsentidos%2B%2528v2%2529%2BUNIFRANCE%2Bgrande.jpg" GROUP-TITLE="", EL IMPERIO DE LOS SENTIDOS
+#EXTINF:-1 TVG-LOGO="http://2.bp.blogspot.com/-ZJQ0LZ19WaI/Xre_HaCvOAI/AAAAAAAArds/ZfFZk7FTVkEeMujhw8m-4dIqYmTUQN6nACK4BGAYYCw/s1600/El%2Bimperio%2Bde%2Blos%2Bsentidos%2B%2528v2%2529%2BUNIFRANCE%2Bgrande.jpg" GROUP-TITLE="", EL IMPERIO DE LOS SENTIDOS
 https://archive.org/download/el-imperio-de-los-sentidos/El%20Imperio%20De%20Los%20Sentidos.mp4
 
 #EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/emmanuelle-969219518-large.jpg" GROUP-TITLE="", EMMANUELLE
@@ -66,5 +66,5 @@ https://archive.org/download/patricia-una-pasion-escondida/Patricia%2C%20Una%20P
 #EXTINF:-1 TVG-LOGO="https://pics.filmaffinity.com/il_portiere_di_notte-668647077-large.jpg" GROUP-TITLE="", PORTERO DE NOCHE
 https://archive.org/download/portero-de-noche-m-1080.www.newpct-1.com/PorteroDeNocheM1080.www.newpct1.com.mp4
 
-EXTINF:-1 TVG-LOGO="https://medias.unifrance.org/medias/253/152/104701/format_page/media.jpg" GROUP-TITLE="", YO SOY UNA NINFOMANA
+#EXTINF:-1 TVG-LOGO="https://medias.unifrance.org/medias/253/152/104701/format_page/media.jpg" GROUP-TITLE="", YO SOY UNA NINFOMANA
 https://archive.org/download/yo-soy-ninfomana-1971/Yo%20Soy%20Ninfomana%201971.mp4
